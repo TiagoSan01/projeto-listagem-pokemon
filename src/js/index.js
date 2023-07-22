@@ -10,6 +10,6 @@ botaoAlterarTema.addEventListener("click", () => {
     imagemBotaoTrocaDeTema.setAttribute("src" , "./src/imagens/moon.png")
  const modoEscuroEstaAtivo = body.classList.contains("modo-escuro");
      if(modoEscuroEstaAtivo){
-console
+        
      }
 });
